@@ -1,0 +1,8 @@
+/* src/components/DataVisualization.css */
+#chart {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem; /* Add margin-bottom to ensure it's not covered by the footer */
+  }
+  
